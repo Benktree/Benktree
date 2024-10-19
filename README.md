@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Benktree
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Congxian Wang
 
-<!---
-Benktree/Benktree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m currently seeking a 2025 internship in supply chain and data analyst. Feel free to connect with me anytime!
+
+- 🌱 Currently a 1st-year graduate in Supply Chain Engineering at Georgia Institute of Technology, specializing in warehousing engineering and analytics modeling.
+
+- 💞️ During my undergraduate internship at Intel’s Global Logistics Organization, I gained valuable experience in wafer shipments optimization, data processing and visualization, forecasting models. This helped me develop skills in data analysis and visualization to solve real-world logistics challenges.
+
+- 😄 I am eager to learn from experts and peers and to apply my knowledge and skills.
